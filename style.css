@@ -22,11 +22,11 @@ p.dialogo{
     font-weight: bold;
 }
 body {
-    background-image: url("img/rex lapis.png");
+    background-image: url("img/escriba.png");
 background-repeat:repeat ;
 background-position: right top;
 background-attachment: fixed;
 background-blend-mode: multiply;
 background-size: cover;
-background-color: #cfa344;
+background-color: #befa70;
 }
